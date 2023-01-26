@@ -6,5 +6,7 @@ public class Student {
         System.out.println("hi");
 
         System.out.println("hello");
+
+        System.out.println("hadi artık amk");
     }
 }
